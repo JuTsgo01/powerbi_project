@@ -4,5 +4,5 @@
 
 * Segue resultado das análises:
 
-
+![Análise do perfil do Cliente](perfil_cliente.png)
 
