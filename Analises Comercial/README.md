@@ -28,10 +28,10 @@
 4. O nosso principal estado de atuação, no quesito faturamento, são São Paulo e Rio de Janeiro, respectivamente.
 
 5. Nossos principais vendedores são:
-    1. André Pereira
-    2. Maria Fernandes
-    3. Josias Silva
-    4. Arthur Moreira
+    * 1º André Pereira
+    * 2º Maria Fernandes
+    * 3º Josias Silva
+    * 4º Arthur Moreira
 
 6. Quais deverá ser nossos próximos passos?
     * Manter nossas vendas atuais e focar nos itens nos traz mais faturamento e lucro
