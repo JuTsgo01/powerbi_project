@@ -5,6 +5,6 @@
     - Aprimorar ainda mais meus conhecimentos em Power BI
     - Diversificar setores e aprimorar conhecimentos de diversas áreas
 
-### OBS: TODOS OS DADOS USADOS SÃO FICTÍCIOS E SÃO APENAS USADOS PARA ESTUDA, PROJETOS E DEMONSTRAÇÃO DE SKILLS 
+### OBS: Todos os dados são fictícios e apenas para fins de estudos, projetos e aprimoramento de habilidades com a ferramenta!
 
 
